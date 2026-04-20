@@ -19,6 +19,13 @@
 ### Problem 1: Sum of Elements
 Given a list of numbers, print the total sum of all elements using a `for` loop.
 
+Numbers = [2,4,6,8]
+
+for i in Numbers
+  sum=i + Numbers[0]
+print(sum)
+ 
+
 **Example input:** `[2, 4, 6, 8]`  
 **Example output:** `20`
 
