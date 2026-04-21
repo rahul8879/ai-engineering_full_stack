@@ -1,0 +1,6 @@
+i=10
+
+for j in i
+ multiplication =(j*i)
+
+print(multiplication)
