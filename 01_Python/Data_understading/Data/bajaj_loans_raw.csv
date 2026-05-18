@@ -1,0 +1,519 @@
+customer_id,name,age,city,employment_type,annual_income,loan_amount,loan_purpose,tenure_months,emi,credit_score,status,application_date
+BF0177,Customer_177,59,JAIPUR,Salaried,64764.0,"428,387",Debt Consolidation,24,14993,765.0,Pending,15-09-2023
+BF0133,Customer_133,49,Chennai,Freelancer,123142.0,126218,Home Renovation,12,4417,673.0,Approved,13-07-2023
+BF0007,Customer_7,32,Chennai,Salaried,198420.0,"926,906",Travel,24,32441,792.0,Approved,09-01-2023
+BF0085,Customer_85,54,Bangalore,Self-Employed,45159.0,"1,345,302",Wedding,36,47085,756.0,Approved,03-05-2023
+BF0457,Customer_457,56,Pune,Freelancer,165518.0,292615,Travel,36,10241,,Approved ,29-10-2024
+BF0312,Customer_312,28,ahmedabad,Salaried,,825435,Home Renovation,36,28890,617.0,Rejected,30-03-2024
+BF0334,Customer_334,54,AHMEDABAD,Freelancer,149040.0,1135841,Home Renovation,12,39754,659.0,Approved,02-05-2024
+BF0073,Customer_73,46,Chennai,Salaried,185775.0,1046530,Debt Consolidation,24,36628,707.0,Rejected,16-04-2023
+BF0185,Customer_185,54,Delhi,Business,,956739,Medical Emergency,12,33485,651.0,Rejected ,27-09-2023
+BF0155,Customer_155,33,JAIPUR,,163311.0,549876,Business,12,19245,658.0,Approved,14-08-2023
+BF0230,Customer_230,57,Jaipur,Salaried,167386.0,"386,326",Travel,36,13521,696.0,Approved,02-12-2023
+BF0305,Customer_305,30,HYDERABAD,Self-Employed,150036.0,444966,Education,60,15573,809.0,Rejected,20-03-2024
+BF0094,Customer_94,44,Ahmedabad,Salaried,107844.0,"1,250,454",Business,48,43765,616.0,Approved,17-05-2023
+BF0102,Customer_102,56,Chennai,Business,75990.0,1272108,Home Renovation,60,44523,832.0,Approved,28-05-2023
+BF0011,Customer_11,45,mumbai,Self-Employed,157396.0,"175,885",Wedding,60,6155,751.0,Approved,15-01-2023
+BF0449,Customer_449,45,Hyderabad,Salaried,108122.0,843719,Home Renovation,24,29530,506.0,Approved,17-10-2024
+BF0080,Customer_80,32,delhi,Business,187993.0,1004652,Home Renovation,36,35162,665.0,Approved,26-04-2023
+BF0031,Customer_31,42,Bangalore,Self-Employed,77224.0,"367,320",Home Renovation,12,12856,650.0,Rejected,13-02-2023
+BF0186,Customer_186,30,Pune,,80393.0,"1,355,289",Travel,36,47435,667.0,Approved,28-09-2023
+BF0138,Customer_138,46,Ahmedabad,Business,48524.0,528446,Education,12,18495,590.0,Approved ,20-07-2023
+BF0196,Customer_196,40,Hyderabad,Freelancer,68088.0,812092,Wedding,48,28423,673.0,Approved,13-10-2023
+BF0083,Customer_83,56,Delhi,Business,152016.0,1245889,Education,60,43606,654.0,Rejected,30-04-2023
+BF0159,Customer_159,38,bangalore,Business,199197.0,"97,057",Medical Emergency,12,3396,761.0,Rejected ,20-08-2023
+BF0376,Customer_376,26,CHENNAI,Freelancer,90545.0,"325,128",Business,24,11379,842.0,Approved,02-07-2024
+BF0232,Customer_232,41,bangalore,Salaried,82108.0,"979,168",Wedding,24,34270,674.0,Approved,04-12-2023
+BF0299,Customer_299,23,DELHI,Business,159668.0,1250139,Home Renovation,48,43754,778.0,Approved,11-03-2024
+BF0078,Customer_78,29,Delhi,Business,109665.0,1317543,Business,48,46114,572.0,Rejected,23-04-2023
+BF0385,Customer_385,58,Bangalore,Self-Employed,33512.0,82733,Education,36,2895,681.0,Pending,15-07-2024
+BF0490,Customer_490,32,Delhi,Salaried,159828.0,1348266,Home Renovation,48,47189,688.0,Rejected,16-12-2024
+BF0409,Customer_409,54,Bangalore,Self-Employed,68925.0,480789,Travel,24,16827,,Approved ,19-08-2024
+BF0485,Customer_485,52,Pune,Self-Employed,89772.0,"178,322",Education,48,6241,668.0,Rejected,09-12-2024
+BF0399,Customer_399,45,Mumbai,Self-Employed,67929.0,216472,Medical Emergency,12,7576,726.0,Approved,05-08-2024
+BF0330,Customer_330,43,Pune,Self-Employed,183211.0,1021741,Business,60,35760,665.0,Pending,26-04-2024
+BF0010,Customer_10,57,BANGALORE,Self-Employed,193152.0,1305564,Debt Consolidation,48,45694,733.0,Pending,14-01-2023
+BF0074,Customer_74,28,Ahmedabad,Business,34337.0,821253,Home Renovation,24,28743,726.0,Pending,17-04-2023
+BF0488,Customer_488,44,Jaipur,Salaried,109291.0,1260209,Travel,12,44107,667.0,Rejected,13-12-2024
+BF0193,Customer_193,40,chennai,Business,122239.0,576861,Travel,24,20190,,Approved,08-10-2023
+BF0248,Customer_248,42,Hyderabad,Self-Employed,,"563,319",Wedding,48,19716,735.0,Approved,28-12-2023
+BF0079,Customer_79,45,Chennai,Freelancer,130787.0,433152,Wedding,12,15160,536.0,Approved,25-04-2023
+BF0356,Customer_356,22,pune,Business,122579.0,304444,Wedding,12,10655,692.0,Approved,03-06-2024
+BF0454,Customer_454,34,Bangalore,Freelancer,30408.0,"1,181,876",Travel,60,41365,790.0,Approved,24-10-2024
+BF0056,Customer_56,31,Bangalore,,63413.0,875656,Business,24,30647,845.0,Approved,22-03-2023
+BF0480,Customer_480,42,Mumbai,Salaried,153876.0,"175,991",Home Renovation,36,6159,775.0,Rejected,01-12-2024
+BF0141,Customer_141,48,Chennai,Freelancer,188273.0,1138562,Wedding,60,39849,694.0,Approved,24-07-2023
+BF0226,Customer_226,54,Bangalore,Business,,1102839,Travel,36,38599,717.0,Approved,26-11-2023
+BF0415,Customer_415,54,chennai,Salaried,,"860,694",Home Renovation,60,30124,766.0,Pending,28-08-2024
+BF0303,Customer_303,38,Hyderabad,Business,32561.0,1241902,Debt Consolidation,36,43466,625.0,Rejected,17-03-2024
+BF0228,Customer_228,32,Pune,Business,53732.0,"1,276,476",Medical Emergency,12,44676,638.0,Approved,29-11-2023
+BF0496,Customer_496,59,Delhi,Business,155330.0,1118199,Home Renovation,60,39136,735.0,Approved ,25-12-2024
+BF0190,Customer_190,24,Jaipur,Self-Employed,100745.0,267215,Business,12,9352,784.0,Approved,04-10-2023
+BF0487,Customer_487,56,Chennai,Freelancer,39382.0,61303,Debt Consolidation,24,2145,717.0,Approved,11-12-2024
+BF0064,Customer_64,42,Chennai,Freelancer,103859.0,516725,Medical Emergency,36,18085,751.0,Approved,03-04-2023
+BF0441,Customer_441,58,Jaipur,Salaried,,338316,Debt Consolidation,12,11841,663.0,Approved,05-10-2024
+BF0425,Customer_425,47,Bangalore,Business,173056.0,"352,186",Debt Consolidation,24,12326,631.0,Approved,12-09-2024
+BF0288,Customer_288,44,DELHI,Self-Employed,98688.0,"666,036",Wedding,12,23311,639.0,Pending,24-02-2024
+BF0245,Customer_245,25,bangalore,Salaried,,"1,046,121",Debt Consolidation,48,36614,664.0,Approved,23-12-2023
+BF0253,Customer_253,38,MUMBAI,Self-Employed,166550.0,278071,Business,12,9732,721.0,Pending ,04-01-2024
+BF0003,Customer_3,29,Jaipur,Business,79693.0,1153894,Wedding,36,40386,733.0,Approved,03-01-2023
+BF0466,Customer_466,33,CHENNAI,Freelancer,57154.0,"376,916",Business,48,13192,697.0,Approved,11-11-2024
+BF0396,Customer_396,26,Mumbai,Business,108524.0,1320464,Medical Emergency,24,46216,814.0,Approved,31-07-2024
+BF0105,Customer_105,24,Bangalore,Business,179865.0,1248097,Medical Emergency,12,43683,762.0,Approved,02-06-2023
+BF0091,Customer_91,33,MUMBAI,Business,82043.0,1254565,Home Renovation,36,43909,652.0,Approved,12-05-2023
+BF0275,Customer_275,49,MUMBAI,Self-Employed,161194.0,891344,Medical Emergency,48,31197,,Approved,05-02-2024
+BF0174,Customer_174,25,Hyderabad,Freelancer,40254.0,1329361,Business,12,46527,755.0,Rejected,11-09-2023
+BF0349,Customer_349,47,Mumbai,Freelancer,,1192647,Debt Consolidation,24,41742,817.0,Approved,24-05-2024
+BF0069,Customer_69,46,Jaipur,,150899.0,712143,Medical Emergency,36,24925,563.0,Rejected,10-04-2023
+BF0173,Customer_173,53,Jaipur,Freelancer,175830.0,"677,433",Medical Emergency,60,23710,822.0,Pending,09-09-2023
+BF0034,Customer_34,25,Bangalore,Salaried,86629.0,548716,Medical Emergency,48,19205,752.0,Approved,18-02-2023
+BF0071,Customer_71,36,chennai,Business,91203.0,1300155,Travel,36,45505,642.0,Approved,13-04-2023
+BF0077,Customer_77,22,Mumbai,Self-Employed,127023.0,856388,Medical Emergency,60,29973,591.0,Approved,22-04-2023
+BF0001,Customer_1,50,Delhi,Business,44065.0,1076919,Travel,12,37692,,Approved,01-01-2023
+BF0012,Customer_12,24,Jaipur,Salaried,116267.0,946209,,36,33117,682.0,Pending,17-01-2023
+BF0454,Customer_454,34,Bangalore,Freelancer,30408.0,"1,181,876",Travel,60,41365,790.0,Approved,24-10-2024
+BF0023,Customer_23,46,Ahmedabad,Self-Employed,165507.0,634567,Debt Consolidation,24,22209,620.0,Approved,02-02-2023
+BF0432,Customer_432,28,Jaipur,Salaried,127974.0,"195,271",Wedding,12,6834,,Approved,22-09-2024
+BF0369,Customer_369,58,DELHI,Salaried,26917.0,"932,554",Business,24,32639,,Approved,22-06-2024
+BF0115,Customer_115,34,Chennai,Self-Employed,87292.0,993026,Home Renovation,48,34755,749.0,Approved,16-06-2023
+BF0297,Customer_297,43,Jaipur,Business,29632.0,"1,358,144",Debt Consolidation,12,47535,757.0,Rejected,09-03-2024
+BF0083,Customer_83,56,Delhi,Business,152016.0,1245889,Education,60,43606,654.0,Rejected,30-04-2023
+BF0246,Customer_246,54,Jaipur,Freelancer,137428.0,631780,Medical Emergency,48,22112,646.0,Pending,25-12-2023
+BF0019,Customer_19,42,Pune,Business,40485.0,"745,275",Medical Emergency,36,26084,772.0,Rejected ,27-01-2023
+BF0178,Customer_178,45,Bangalore,Salaried,102709.0,588884,Travel,24,20610,665.0,Rejected,16-09-2023
+BF0132,Customer_132,49,CHENNAI,Freelancer,174456.0,1391398,,48,48698,709.0,Approved,11-07-2023
+BF0278,Customer_278,27,Jaipur,Freelancer,109717.0,1153913,Travel,24,40386,683.0,Pending,10-02-2024
+BF0499,Customer_499,30,Delhi,Business,151205.0,508298,Business,60,17790,665.0,Pending,29-12-2024
+BF0040,Customer_40,41,Hyderabad,,139821.0,"719,078",Home Renovation,24,25167,764.0,approved,27-02-2023
+BF0468,Customer_468,33,Mumbai,,128677.0,"655,409",Medical Emergency,48,22939,782.0,Rejected,14-11-2024
+BF0047,Customer_47,57,DELHI,Salaried,118396.0,544592,Wedding,48,19060,711.0,Pending,09-03-2023
+BF0389,Customer_389,57,Ahmedabad,Freelancer,118070.0,"599,239",Business,12,20973,692.0,Approved,21-07-2024
+BF0205,Customer_205,46,Bangalore,Freelancer,39388.0,830316,Education,12,29061,691.0,Approved,26-10-2023
+BF0365,Customer_365,24,Mumbai,Salaried,129537.0,"865,862",Wedding,48,30305,677.0,Approved ,16-06-2024
+BF0403,Customer_403,53,Chennai,Self-Employed,126834.0,"1,141,577",Debt Consolidation,12,39955,800.0,Approved,11-08-2024
+BF0326,Customer_326,44,Ahmedabad,Business,183357.0,978626,,48,34251,600.0,Approved,20-04-2024
+BF0125,Customer_125,34,DELHI,Self-Employed,130570.0,702465,Home Renovation,36,24586,766.0,Approved,01-07-2023
+BF0484,Customer_484,35,Hyderabad,Freelancer,45103.0,118265800,Home Renovation,24,41393,772.0,Approved,07-12-2024
+BF0500,Customer_500,48,JAIPUR,Freelancer,39153.0,1097343,Business,24,38407,720.0,Pending,31-12-2024
+BF0118,Customer_118,25,Delhi,Freelancer,45309.0,1401526,Wedding,12,49053,884.0,Approved,21-06-2023
+BF0070,Customer_70,50,Jaipur,Freelancer,48959.0,616202,Debt Consolidation,12,21567,655.0,Rejected,11-04-2023
+BF0357,Customer_357,55,Delhi,Business,162541.0,653561,Business,24,22874,763.0,Rejected,04-06-2024
+BF0303,Customer_303,38,Hyderabad,Business,32561.0,1241902,Debt Consolidation,36,43466,625.0,Rejected,17-03-2024
+BF0372,Customer_372,35,Delhi,Self-Employed,,"472,845",Debt Consolidation,60,16549,683.0,Approved,26-06-2024
+BF0472,Customer_472,35,Hyderabad,Self-Employed,57265.0,"906,101",Business,60,31713,719.0,Approved ,20-11-2024
+BF0392,Customer_392,31,Pune,Business,182686.0,1000417,Debt Consolidation,60,35014,742.0,Approved,26-07-2024
+BF0381,Customer_381,42,Pune,Freelancer,64809.0,939097,Education,12,32868,755.0,Approved,09-07-2024
+BF0406,Customer_406,45,chennai,Salaried,149450.0,881460,Debt Consolidation,12,30851,765.0,Pending,15-08-2024
+BF0332,Customer_332,36,Chennai,Freelancer,169990.0,"1,386,230",Education,24,48518,725.0,Approved,29-04-2024
+BF0221,Customer_221,40,Chennai,Self-Employed,133215.0,1139385,Home Renovation,60,39878,691.0,pending,18-11-2023
+BF0149,Customer_149,54,chennai,Business,82091.0,1028039,Business,24,35981,738.0,Approved,05-08-2023
+BF0302,Customer_302,47,Jaipur,Self-Employed,133099.0,1301079,Wedding,24,45537,785.0,Approved,16-03-2024
+BF0279,Customer_279,56,Hyderabad,Salaried,63638.0,947048,Debt Consolidation,60,33146,792.0,Approved,11-02-2024
+BF0358,Customer_358,53,Delhi,Self-Employed,186177.0,911291,Business,60,31895,799.0,Approved,06-06-2024
+BF0355,Customer_355,22,Pune,Freelancer,113236.0,"1,061,727",Debt Consolidation,24,37160,748.0,Rejected,01-06-2024
+BF0209,Customer_209,56,Bangalore,Freelancer,192658.0,"386,676",Travel,24,13533,755.0,Approved,01-11-2023
+BF0256,Customer_256,43,Delhi,Freelancer,160504.0,466366,Wedding,60,16322,742.0,Approved,09-01-2024
+BF0335,Customer_335,29,Bangalore,Freelancer,169118.0,1347897,Home Renovation,60,47176,655.0,Approved,03-05-2024
+BF0276,Customer_276,51,MUMBAI,Freelancer,43030.0,1491852,Business,24,52214,714.0,pending,07-02-2024
+BF0448,Customer_448,53,Bangalore,Freelancer,121646.0,"1,422,133",Debt Consolidation,60,49774,603.0,Pending,15-10-2024
+BF0362,Customer_362,26,Pune,Self-Employed,193048.0,509297,Debt Consolidation,48,17825,,Approved,12-06-2024
+BF0087,Customer_87,49,Hyderabad,Self-Employed,130616.0,69816,Business,24,2443,720.0,Approved,06-05-2023
+BF0323,Customer_323,55,Ahmedabad,Business,28812.0,"1,143,389",Medical Emergency,60,40018,678.0,Pending,16-04-2024
+BF0076,Customer_76,45,Jaipur,Business,86529.0,"1,428,246",Business,24,49988,736.0,Pending,20-04-2023
+BF0455,Customer_455,44,delhi,Business,84379.0,815537,Education,48,28543,878.0,Approved,26-10-2024
+BF0016,Customer_16,51,Ahmedabad,Self-Employed,51790.0,"141,751",Home Renovation,36,4961,625.0,Approved,22-01-2023
+BF0371,Customer_371,50,Chennai,Salaried,57254.0,"590,659",Wedding,12,20673,781.0,Approved,25-06-2024
+BF0183,Customer_183,32,Ahmedabad,,90215.0,"188,155",Travel,24,6585,699.0,Approved,24-09-2023
+BF0400,Customer_400,37,Ahmedabad,Freelancer,152309.0,447710,Home Renovation,12,15669,702.0,Approved,06-08-2024
+BF0020,Customer_20,54,MUMBAI,Business,69482.0,873651,Debt Consolidation,60,30577,739.0,Pending,28-01-2023
+BF0333,Customer_333,58,Mumbai,Self-Employed,,"331,570",Education,24,11604,,Rejected,30-04-2024
+BF0343,Customer_343,34,MUMBAI,Salaried,66427.0,104955400,Home Renovation,36,36734,738.0,Pending,15-05-2024
+BF0057,Customer_57,57,hyderabad,Self-Employed,77638.0,1070020,Home Renovation,36,37450,734.0,Rejected,23-03-2023
+BF0251,Customer_251,28,Mumbai,Business,161312.0,1320896,Home Renovation,12,46231,752.0,Rejected,01-01-2024
+BF0342,Customer_342,37,bangalore,Freelancer,147177.0,1308593,Debt Consolidation,60,45800,858.0,Approved,13-05-2024
+BF0438,Customer_438,42,Bangalore,Salaried,,505699,Wedding,36,17699,627.0,Rejected,01-10-2024
+BF0156,Customer_156,23,bangalore,Business,149454.0,661213,Business,36,23142,664.0,Rejected,15-08-2023
+BF0026,Customer_26,37,Delhi,Salaried,55355.0,50126,Debt Consolidation,48,1754,674.0,Rejected,06-02-2023
+BF0387,Customer_387,31,DELHI,Freelancer,133872.0,159996,Home Renovation,48,5599,734.0,Pending,18-07-2024
+BF0043,Customer_43,29,delhi,Salaried,178772.0,"182,717",Wedding,60,6395,772.0,approved,03-03-2023
+BF0315,Customer_315,22,Hyderabad,Salaried,125776.0,"1,451,320",Wedding,12,50796,825.0,Pending,04-04-2024
+BF0285,Customer_285,54,Ahmedabad,Self-Employed,,790829,Debt Consolidation,12,27679,723.0,Approved,20-02-2024
+BF0168,Customer_168,40,Mumbai,Salaried,150917.0,"1,479,585",Travel,12,51785,692.0,Pending,02-09-2023
+BF0287,Customer_287,53,Jaipur,Self-Employed,71271.0,"625,762",Medical Emergency,24,21901,776.0,Pending,23-02-2024
+BF0127,Customer_127,28,BANGALORE,Self-Employed,156456.0,1048748,Medical Emergency,48,36706,692.0,Approved,04-07-2023
+BF0337,Customer_337,25,hyderabad,Self-Employed,29324.0,1188189,Medical Emergency,24,41586,,Pending,06-05-2024
+BF0032,Customer_32,30,Chennai,Freelancer,64298.0,"1,349,445",Wedding,12,47230,654.0,Approved,15-02-2023
+BF0114,Customer_114,47,mumbai,Salaried,153778.0,350709,Medical Emergency,24,12274,768.0,Pending,15-06-2023
+BF0412,Customer_412,33,Ahmedabad,Freelancer,33007.0,"549,722",Home Renovation,36,19240,745.0,Rejected,24-08-2024
+BF0223,Customer_223,24,Pune,Self-Employed,126570.0,101226,Education,48,3542,702.0,Approved,21-11-2023
+BF0154,Customer_154,45,Hyderabad,Self-Employed,,366915,Home Renovation,48,12842,647.0,Rejected,12-08-2023
+BF0058,Customer_58,35,Jaipur,Salaried,135133.0,"934,377",Wedding,24,32703,767.0,Rejected,25-03-2023
+BF0211,Customer_211,37,Jaipur,Salaried,70002.0,1416853,Wedding,48,49589,691.0,Approved,04-11-2023
+BF0025,Customer_25,49,Hyderabad,Salaried,148961.0,940695,Travel,60,32924,735.0,Rejected,05-02-2023
+BF0018,Customer_18,23,Bangalore,Salaried,50289.0,863738,Travel,24,30230,732.0,approved,25-01-2023
+BF0212,Customer_212,47,Pune,Freelancer,162326.0,"1,064,929",Education,60,37272,706.0,Approved,05-11-2023
+BF0067,Customer_67,45,mumbai,Freelancer,,894193,Travel,48,31296,689.0,approved,07-04-2023
+BF0229,Customer_229,29,delhi,Business,146465.0,622212,Medical Emergency,36,21777,767.0,Approved ,30-11-2023
+BF0210,Customer_210,28,Pune,Self-Employed,168087.0,1442714,Home Renovation,48,50494,785.0,Approved,02-11-2023
+BF0095,Customer_95,45,MUMBAI,Freelancer,52532.0,780880,Home Renovation,60,27330,704.0,Pending,18-05-2023
+BF0290,Customer_290,24,Delhi,Salaried,136076.0,"1,344,266",Travel,12,47049,783.0,Approved,27-02-2024
+BF0292,Customer_292,46,Hyderabad,Business,26062.0,843392,Education,48,29518,804.0,Rejected,01-03-2024
+BF0024,Customer_24,48,ahmedabad,,28709.0,"365,172",Medical Emergency,60,12781,,Approved,03-02-2023
+BF0366,Customer_366,33,Mumbai,Freelancer,103477.0,"602,076",Business,24,21072,698.0,Pending,17-06-2024
+BF0423,Customer_423,44,delhi,Salaried,150501.0,100166100,Business,12,35058,755.0,Approved,09-09-2024
+BF0219,Customer_219,30,chennai,Business,83243.0,"702,665",Education,60,24593,787.0,Approved,15-11-2023
+BF0006,Customer_6,44,Ahmedabad,Business,38807.0,126077,Travel,60,4412,857.0,Approved,08-01-2023
+BF0117,Customer_117,53,Hyderabad,Business,160230.0,1373062,Debt Consolidation,48,48057,649.0,Rejected,19-06-2023
+BF0046,Customer_46,38,delhi,Self-Employed,45559.0,429862,Home Renovation,48,15045,773.0,Approved,07-03-2023
+BF0429,Customer_429,31,Ahmedabad,Salaried,64711.0,526072,Education,60,18412,,Approved,18-09-2024
+BF0017,Customer_17,59,delhi,Freelancer,143874.0,280203,Travel,24,9807,748.0,Approved,24-01-2023
+BF0482,Customer_482,44,BANGALORE,Business,65631.0,556079,,48,19462,660.0,Approved,04-12-2024
+BF0370,Customer_370,43,Bangalore,Business,45618.0,943741,Medical Emergency,60,33030,717.0,Approved,23-06-2024
+BF0004,Customer_4,42,bangalore,Self-Employed,51962.0,444030,Debt Consolidation,60,15541,540.0,Pending,05-01-2023
+BF0239,Customer_239,39,Delhi,Freelancer,155560.0,612997,Education,12,21454,716.0,Approved,15-12-2023
+BF0439,Customer_439,57,Bangalore,Freelancer,,"1,247,945",Business,24,43678,691.0,Rejected,02-10-2024
+BF0061,Customer_61,29,Delhi,Business,197502.0,"992,654",Education,48,34742,744.0,Approved,29-03-2023
+BF0111,Customer_111,30,Mumbai,Business,125497.0,1236293,Wedding,12,43270,674.0,Pending,10-06-2023
+BF0461,Customer_461,46,DELHI,Freelancer,35789.0,"377,304",Debt Consolidation,36,13205,770.0,Approved,03-11-2024
+BF0272,Customer_272,25,Mumbai,Salaried,,706884,Debt Consolidation,12,24740,759.0,Approved,01-02-2024
+BF0030,Customer_30,28,Chennai,Business,67918.0,1208521,Travel,12,42298,634.0,Approved,12-02-2023
+BF0424,Customer_424,38,Bangalore,Freelancer,,"913,561",Travel,48,31974,756.0,Approved,10-09-2024
+BF0181,Customer_181,27,Chennai,Freelancer,84494.0,442417,Travel,24,15484,602.0,Rejected,21-09-2023
+BF0027,Customer_27,36,MUMBAI,Salaried,169188.0,"888,761",Debt Consolidation,24,31106,872.0,Approved,08-02-2023
+BF0008,Customer_8,32,MUMBAI,Business,182504.0,183515,Home Renovation,48,6423,729.0,Approved,11-01-2023
+BF0182,Customer_182,43,Ahmedabad,Business,106317.0,1030020,Travel,24,36050,646.0,Approved,22-09-2023
+BF0470,Customer_470,28,CHENNAI,Salaried,44029.0,942027,Education,36,32970,725.0,Approved,17-11-2024
+BF0109,Customer_109,35,Mumbai,Self-Employed,86813.0,753662,Wedding,60,26378,824.0,approved,07-06-2023
+BF0038,Customer_38,47,Delhi,Freelancer,58591.0,1233445,Business,24,43170,651.0,Approved,24-02-2023
+BF0158,Customer_158,58,Delhi,Self-Employed,86877.0,1164934,Travel,12,40772,729.0,Pending,18-08-2023
+BF0486,Customer_486,26,Hyderabad,Salaried,151108.0,706951,Debt Consolidation,24,24743,678.0,Pending,10-12-2024
+BF0119,Customer_119,51,Mumbai,,31970.0,"1,409,490",Medical Emergency,12,49332,763.0,Approved,22-06-2023
+BF0115,Customer_115,34,Chennai,Self-Employed,87292.0,993026,Home Renovation,48,34755,749.0,Approved,16-06-2023
+BF0269,Customer_269,54,Chennai,Freelancer,69247.0,1164593,Medical Emergency,60,40760,631.0,Pending,28-01-2024
+BF0176,Customer_176,38,ahmedabad,Salaried,26252.0,257990,Medical Emergency,48,9029,616.0,Approved,14-09-2023
+BF0204,Customer_204,49,chennai,Self-Employed,98477.0,1336585,Medical Emergency,36,46780,,Approved ,24-10-2023
+BF0263,Customer_263,48,Hyderabad,Freelancer,,"999,491",,36,34982,821.0,Rejected,19-01-2024
+BF0145,Customer_145,29,Bangalore,Self-Employed,190888.0,"647,794",Education,60,22672,658.0,Pending,30-07-2023
+BF0195,Customer_195,24,Mumbai,Self-Employed,95390.0,"545,553",Debt Consolidation,24,19094,686.0,Rejected,11-10-2023
+BF0383,Customer_383,54,Mumbai,Freelancer,30287.0,300195,Medical Emergency,12,10506,625.0,Pending ,12-07-2024
+BF0394,Customer_394,53,Hyderabad,Salaried,67078.0,1086580,Medical Emergency,24,38030,624.0,Approved,28-07-2024
+BF0419,Customer_419,33,Bangalore,Salaried,40524.0,1048974,Debt Consolidation,36,36714,550.0,Rejected,03-09-2024
+BF0235,Customer_235,56,mumbai,Business,61668.0,1450283,Education,60,50759,758.0,Rejected,09-12-2023
+BF0238,Customer_238,39,mumbai,Freelancer,64749.0,1199947,Home Renovation,48,41998,729.0,approved,13-12-2023
+BF0462,Customer_462,43,Delhi,Self-Employed,,415464,Travel,60,14541,656.0,Approved,05-11-2024
+BF0142,Customer_142,34,Mumbai,Self-Employed,169528.0,"397,739",Business,60,13920,596.0,Rejected,26-07-2023
+BF0023,Customer_23,46,Ahmedabad,Self-Employed,165507.0,634567,Debt Consolidation,24,22209,620.0,Approved,02-02-2023
+BF0068,Customer_68,47,MUMBAI,Business,46447.0,348512,Home Renovation,60,12197,662.0,Approved,09-04-2023
+BF0324,Customer_324,23,Ahmedabad,,184096.0,"714,180",Home Renovation,12,24996,704.0,Pending,17-04-2024
+BF0169,Customer_169,23,pune,Business,49285.0,451921,Home Renovation,24,15817,660.0,Approved,03-09-2023
+BF0189,Customer_189,50,chennai,Business,179458.0,140093,Debt Consolidation,36,4903,730.0,Approved,03-10-2023
+BF0347,Customer_347,40,Delhi,Self-Employed,150808.0,859942,Education,36,30097,750.0,Approved,21-05-2024
+BF0434,Customer_434,32,Pune,Salaried,165256.0,1018452,Wedding,36,35645,593.0,Approved,25-09-2024
+BF0354,Customer_354,33,MUMBAI,Self-Employed,,688112,Education,36,24083,503.0,Approved,31-05-2024
+BF0194,Customer_194,47,Bangalore,Freelancer,67318.0,609655,Travel,48,21337,648.0,Approved,10-10-2023
+BF0082,Customer_82,29,Pune,Salaried,183427.0,"1,095,482",Wedding,12,38341,,Approved,29-04-2023
+BF0110,Customer_110,48,Jaipur,Salaried,52712.0,1355585,Business,36,47445,718.0,Approved,09-06-2023
+BF0262,Customer_262,48,Hyderabad,Business,156127.0,"294,883",Home Renovation,24,10320,763.0,Approved,17-01-2024
+BF0146,Customer_146,48,delhi,Freelancer,70106.0,84911,Education,12,2971,578.0,Approved,01-08-2023
+BF0093,Customer_93,54,Bangalore,Business,122007.0,1088896,Home Renovation,48,38111,592.0,Rejected,15-05-2023
+BF0153,Customer_153,53,Hyderabad,Business,117193.0,"955,667",Wedding,12,33448,648.0,Approved,11-08-2023
+BF0460,Customer_460,41,Bangalore,Business,76356.0,541036,Travel,36,18936,739.0,Approved,02-11-2024
+BF0408,Customer_408,56,Pune,Salaried,192231.0,803019,Business,48,28105,669.0,Approved,18-08-2024
+BF0254,Customer_254,54,Chennai,,175334.0,"428,165",Home Renovation,48,14985,583.0,Approved,06-01-2024
+BF0084,Customer_84,56,Mumbai,Freelancer,29835.0,208768,Debt Consolidation,60,7306,719.0,pending,02-05-2023
+BF0104,Customer_104,35,Hyderabad,Freelancer,83141.0,270178,Medical Emergency,36,9456,527.0,Approved,31-05-2023
+BF0166,Customer_166,54,BANGALORE,Freelancer,98963.0,194931,Home Renovation,24,6822,694.0,Approved,30-08-2023
+BF0164,Customer_164,58,Hyderabad,Business,199016.0,987583,Wedding,12,34565,547.0,approved,27-08-2023
+BF0200,Customer_200,54,Ahmedabad,Business,44963.0,"891,461",Home Renovation,48,31201,735.0,Rejected,19-10-2023
+BF0250,Customer_250,29,Chennai,Freelancer,47574.0,926031,Travel,24,32411,699.0,Rejected,31-12-2023
+BF0075,Customer_75,30,Chennai,Salaried,71427.0,554471,Home Renovation,24,19406,652.0,Approved,19-04-2023
+BF0319,Customer_319,33,chennai,Business,100703.0,1467616,Education,36,51366,682.0,Approved,10-04-2024
+BF0311,Customer_311,34,Pune,Salaried,98479.0,"767,912",Travel,48,26876,670.0,Approved,29-03-2024
+BF0489,Customer_489,50,Jaipur,Business,126195.0,"1,432,439",Home Renovation,60,50135,759.0,Approved,14-12-2024
+BF0120,Customer_120,58,delhi,Salaried,97474.0,1177199,,60,41201,588.0,Approved,24-06-2023
+BF0291,Customer_291,39,DELHI,Freelancer,166339.0,"1,430,346",Business,12,50062,630.0,Approved,29-02-2024
+BF0499,Customer_499,30,Delhi,Business,151205.0,508298,Business,60,17790,665.0,Pending,29-12-2024
+BF0471,Customer_471,49,Jaipur,Salaried,84201.0,608030,Medical Emergency,48,21281,657.0,Pending,18-11-2024
+BF0411,Customer_411,58,Hyderabad,Freelancer,112388.0,962727,Travel,48,33695,621.0,Approved,22-08-2024
+BF0495,Customer_495,38,Pune,Freelancer,149714.0,319458,Home Renovation,24,11181,810.0,Pending,23-12-2024
+BF0281,Customer_281,45,Delhi,Self-Employed,143033.0,"1,122,930",Home Renovation,60,39302,737.0,Rejected,14-02-2024
+BF0453,Customer_453,33,Ahmedabad,Self-Employed,,84701,Home Renovation,24,2964,590.0,Approved,23-10-2024
+BF0498,Customer_498,34,chennai,Self-Employed,102834.0,"540,042",Medical Emergency,24,18901,726.0,Approved,28-12-2024
+BF0306,Customer_306,50,BANGALORE,Salaried,149049.0,155423,Education,24,5439,612.0,Approved,22-03-2024
+BF0397,Customer_397,25,Ahmedabad,Salaried,,"835,332",Wedding,24,29236,718.0,Pending,02-08-2024
+BF0321,Customer_321,36,Chennai,Salaried,42260.0,"368,420",Wedding,60,12894,875.0,Approved,13-04-2024
+BF0037,Customer_37,30,Mumbai,Self-Employed,48960.0,512120,Education,36,17924,669.0,Rejected,22-02-2023
+BF0197,Customer_197,41,Delhi,Self-Employed,128196.0,"936,040",Debt Consolidation,48,32761,693.0,Pending,14-10-2023
+BF0140,Customer_140,22,HYDERABAD,Self-Employed,29809.0,1432978,,48,50154,719.0,Rejected,23-07-2023
+BF0378,Customer_378,37,Jaipur,Self-Employed,112958.0,659719,Wedding,24,23090,623.0,Approved,05-07-2024
+BF0443,Customer_443,45,Pune,Salaried,160090.0,"527,602",Business,60,18466,681.0,Approved,08-10-2024
+BF0494,Customer_494,31,BANGALORE,Freelancer,100683.0,1184807,Wedding,48,41468,,Approved,22-12-2024
+BF0401,Customer_401,23,Jaipur,Freelancer,92444.0,261760,Home Renovation,12,9161,665.0,Approved,08-08-2024
+BF0060,Customer_60,36,Delhi,Self-Employed,175159.0,90738,Wedding,60,3175,657.0,Approved,28-03-2023
+BF0130,Customer_130,23,Mumbai,Business,185261.0,1306182,Medical Emergency,24,45716,721.0,Rejected,08-07-2023
+BF0249,Customer_249,41,Hyderabad,,,"830,298",Business,48,29060,677.0,Approved,29-12-2023
+BF0112,Customer_112,36,Jaipur,Freelancer,164487.0,1480491,Medical Emergency,12,51817,668.0,Rejected,12-06-2023
+BF0090,Customer_90,29,AHMEDABAD,Self-Employed,80284.0,364997,Education,36,12774,701.0,Pending ,11-05-2023
+BF0273,Customer_273,56,Jaipur,Business,171106.0,"674,712",,36,23614,639.0,Approved,02-02-2024
+BF0266,Customer_266,51,Chennai,Freelancer,53699.0,1220365,Debt Consolidation,60,42712,,Approved,23-01-2024
+BF0374,Customer_374,26,Pune,Self-Employed,45128.0,"374,060",Home Renovation,24,13092,666.0,Approved ,29-06-2024
+BF0151,Customer_151,36,Hyderabad,Freelancer,62744.0,658746,Travel,60,23056,806.0,Approved,08-08-2023
+BF0395,Customer_395,22,CHENNAI,Business,131288.0,"483,816",Debt Consolidation,48,16933,657.0,Approved,30-07-2024
+BF0039,Customer_39,23,Bangalore,Salaried,128333.0,228954,Travel,12,8013,817.0,Pending,25-02-2023
+BF0325,Customer_325,53,MUMBAI,Business,141148.0,"336,214",Medical Emergency,12,11767,776.0,Approved,18-04-2024
+BF0199,Customer_199,28,Ahmedabad,Self-Employed,80479.0,1122328,Wedding,36,39281,741.0,Rejected,17-10-2023
+BF0267,Customer_267,54,Pune,Salaried,98686.0,729418,Wedding,48,25529,616.0,Rejected,25-01-2024
+BF0147,Customer_147,30,Delhi,Business,78932.0,"475,037",Home Renovation,60,16626,650.0,Approved,02-08-2023
+BF0407,Customer_407,33,DELHI,Business,,"288,506",,36,10097,738.0,Pending,16-08-2024
+BF0148,Customer_148,58,Jaipur,Business,173172.0,780399,Home Renovation,24,27313,759.0,Approved,04-08-2023
+BF0317,Customer_317,37,Mumbai,Business,190601.0,"995,439",Wedding,48,34840,684.0,Approved,07-04-2024
+BF0416,Customer_416,31,PUNE,Self-Employed,186595.0,243283,Wedding,12,8514,651.0,Approved,30-08-2024
+BF0124,Customer_124,57,Bangalore,Self-Employed,,233675,Home Renovation,48,8178,,approved,29-06-2023
+BF0382,Customer_382,57,Mumbai,Self-Employed,141748.0,1279720,Wedding,24,44790,637.0,Pending,11-07-2024
+BF0097,Customer_97,56,Delhi,Salaried,147402.0,183554,Travel,60,6424,661.0,Approved,21-05-2023
+BF0144,Customer_144,27,Chennai,Salaried,63765.0,1425649,Wedding,36,49897,796.0,Approved,29-07-2023
+BF0240,Customer_240,23,Jaipur,Salaried,129680.0,"1,083,578",Education,60,37925,636.0,Approved,16-12-2023
+BF0282,Customer_282,50,ahmedabad,Self-Employed,,"1,143,762",Debt Consolidation,12,40031,723.0,Approved,16-02-2024
+BF0098,Customer_98,43,Ahmedabad,Salaried,143012.0,501282,Education,36,17544,756.0,Pending,22-05-2023
+BF0363,Customer_363,43,Delhi,Business,152534.0,1223917,Debt Consolidation,48,42837,750.0,Approved,13-06-2024
+BF0123,Customer_123,50,Mumbai,Salaried,43017.0,957425,Travel,24,33509,644.0,Approved,28-06-2023
+BF0184,Customer_184,37,MUMBAI,Self-Employed,103587.0,1219250,,48,42673,855.0,Approved ,25-09-2023
+BF0203,Customer_203,32,Bangalore,Self-Employed,127468.0,166739,Debt Consolidation,24,5835,594.0,Approved,23-10-2023
+BF0247,Customer_247,35,mumbai,Business,48624.0,758362,Travel,48,26542,714.0,Approved,26-12-2023
+BF0456,Customer_456,46,Hyderabad,Freelancer,50053.0,133560,Business,48,4674,712.0,Rejected,27-10-2024
+BF0308,Customer_308,56,Jaipur,Salaried,162443.0,51407100,Business,12,17992,747.0,Approved,25-03-2024
+BF0469,Customer_469,30,Mumbai,Business,92779.0,"1,124,135",Medical Emergency,36,39344,639.0,Rejected,15-11-2024
+BF0430,Customer_430,999,Jaipur,Salaried,168026.0,"1,076,553",Travel,12,37679,841.0,pending,19-09-2024
+BF0410,Customer_410,54,Delhi,Freelancer,162023.0,960775,Debt Consolidation,60,33627,684.0,Rejected,21-08-2024
+BF0375,Customer_375,51,Hyderabad,Self-Employed,148781.0,"1,291,835",Education,12,45214,773.0,Pending,01-07-2024
+BF0126,Customer_126,53,Bangalore,Freelancer,33702.0,1315030,Education,60,46026,462.0,Approved,02-07-2023
+BF0313,Customer_313,57,bangalore,Self-Employed,48275.0,127454,Medical Emergency,48,4460,768.0,Approved,01-04-2024
+BF0224,Customer_224,41,Mumbai,Salaried,189506.0,549512,Business,24,19232,640.0,Approved,23-11-2023
+BF0433,Customer_433,25,jaipur,Salaried,174646.0,168533,Wedding,12,5898,646.0,Approved,23-09-2024
+BF0220,Customer_220,56,Chennai,Business,150827.0,623044,Debt Consolidation,60,21806,713.0,Approved,17-11-2023
+BF0130,Customer_130,23,Mumbai,Business,185261.0,1306182,Medical Emergency,24,45716,721.0,Rejected,08-07-2023
+BF0435,Customer_435,50,Delhi,Freelancer,175168.0,116262,Travel,48,4069,663.0,Rejected,26-09-2024
+BF0298,Customer_298,44,BANGALORE,Freelancer,129592.0,369278,Business,48,12924,755.0,Approved,10-03-2024
+BF0339,Customer_339,53,Ahmedabad,Self-Employed,34111.0,171826,Home Renovation,12,6013,638.0,Pending,09-05-2024
+BF0391,Customer_391,52,Ahmedabad,Freelancer,122829.0,1264449,Business,60,44255,641.0,Pending,24-07-2024
+BF0300,Customer_300,48,Bangalore,Self-Employed,134779.0,"749,983",Education,60,26249,754.0,Rejected,13-03-2024
+BF0368,Customer_368,37,Bangalore,Business,26828.0,"491,759",Wedding,48,17211,651.0,Approved,20-06-2024
+BF0421,Customer_421,23,Jaipur,Freelancer,180002.0,"1,402,564",Medical Emergency,12,49089,708.0,Approved,06-09-2024
+BF0295,Customer_295,45,Hyderabad,Self-Employed,162301.0,610696,Home Renovation,60,21374,,Approved,06-03-2024
+BF0405,Customer_405,41,Hyderabad,Business,98698.0,"961,420",Business,60,33649,852.0,Approved,14-08-2024
+BF0422,Customer_422,56,Delhi,Business,156149.0,"376,898",Business,60,13191,774.0,Pending,07-09-2024
+BF0113,Customer_113,36,Bangalore,Self-Employed,137816.0,612288,Wedding,48,21430,661.0,Approved,13-06-2023
+BF0180,Customer_180,55,Bangalore,Freelancer,78682.0,"1,292,845",Travel,24,45249,735.0,Approved,19-09-2023
+BF0318,Customer_318,35,Delhi,,151394.0,"87,641",Debt Consolidation,12,3067,677.0,Approved ,08-04-2024
+BF0350,Customer_350,58,Ahmedabad,Salaried,78441.0,"1,405,267",Education,48,49184,751.0,Approved,25-05-2024
+BF0341,Customer_341,56,Jaipur,Self-Employed,41389.0,500348,Medical Emergency,60,17512,,Pending,12-05-2024
+BF0008,Customer_8,32,MUMBAI,Business,182504.0,183515,Home Renovation,48,6423,729.0,Approved,11-01-2023
+BF0493,Customer_493,30,Hyderabad,Salaried,,960597,Education,36,33620,620.0,Approved,20-12-2024
+BF0234,Customer_234,46,Mumbai,Salaried,128081.0,413476,Debt Consolidation,36,14471,695.0,Approved,07-12-2023
+BF0478,Customer_478,33,Bangalore,Freelancer,185558.0,"1,185,564",Travel,60,41494,669.0,Pending,28-11-2024
+BF0322,Customer_322,49,Hyderabad,Self-Employed,137581.0,331685,Home Renovation,48,11608,676.0,Approved,14-04-2024
+BF0165,Customer_165,53,Mumbai,Business,140765.0,"1,265,868",Wedding,24,44305,607.0,Pending,28-08-2023
+BF0137,Customer_137,49,AHMEDABAD,Self-Employed,48574.0,"499,589",Education,48,17485,608.0,Approved,18-07-2023
+BF0198,Customer_198,53,BANGALORE,Salaried,195883.0,372918,Education,36,13052,710.0,Approved,16-10-2023
+BF0259,Customer_259,59,Mumbai,Business,152600.0,695188,Debt Consolidation,24,24331,689.0,Pending,13-01-2024
+BF0233,Customer_233,56,Pune,Salaried,136195.0,1396457,Education,36,48875,629.0,Approved,06-12-2023
+BF0116,Customer_116,53,Delhi,Business,48833.0,1284816,Business,36,44968,708.0,Approved,18-06-2023
+BF0121,Customer_121,44,Chennai,Freelancer,71540.0,1463897,Business,60,51236,663.0,Approved,25-06-2023
+BF0361,Customer_361,37,Chennai,Freelancer,116922.0,"173,618",Medical Emergency,24,6076,667.0,Rejected,10-06-2024
+BF0225,Customer_225,45,HYDERABAD,Freelancer,,1127978,Business,24,39479,712.0,Pending,24-11-2023
+BF0417,Customer_417,999,chennai,Business,113861.0,"1,022,346",Travel,36,35782,678.0,Approved,31-08-2024
+BF0348,Customer_348,49,Ahmedabad,Business,137221.0,746358,Education,48,26122,817.0,Approved,22-05-2024
+BF0128,Customer_128,43,Jaipur,Salaried,25404.0,1208151,Wedding,60,42285,695.0,Approved,05-07-2023
+BF0286,Customer_286,42,Hyderabad,Freelancer,191926.0,335195,Debt Consolidation,48,11731,757.0,Approved,21-02-2024
+BF0426,Customer_426,29,ahmedabad,Self-Employed,39060.0,1160241,Debt Consolidation,60,40608,732.0,Approved,13-09-2024
+BF0108,Customer_108,47,Chennai,Business,26015.0,874690,Business,24,30614,775.0,Approved,06-06-2023
+BF0384,Customer_384,51,Chennai,Salaried,190459.0,1242324,Business,48,43481,709.0,Approved,14-07-2024
+BF0336,Customer_336,26,Pune,Freelancer,180890.0,116150,Debt Consolidation,48,4065,608.0,Approved,05-05-2024
+BF0134,Customer_134,41,Mumbai,Freelancer,165932.0,637518,Medical Emergency,12,22313,744.0,approved,14-07-2023
+BF0377,Customer_377,33,Delhi,Self-Employed,,"869,471",Travel,36,30431,608.0,Approved,04-07-2024
+BF0045,Customer_45,35,CHENNAI,Salaried,153148.0,698373,Education,48,24443,584.0,Pending,06-03-2023
+BF0479,Customer_479,46,Chennai,Salaried,96907.0,619936,Home Renovation,48,21697,607.0,Approved,30-11-2024
+BF0066,Customer_66,39,Bangalore,Business,167047.0,1224737,Business,60,42865,686.0,Approved,06-04-2023
+BF0284,Customer_284,56,Mumbai,Freelancer,130186.0,477236,Wedding,60,16703,656.0,Approved,19-02-2024
+BF0086,Customer_86,26,bangalore,Freelancer,146790.0,"620,451",,48,21715,651.0,Approved,05-05-2023
+BF0243,Customer_243,-5,Jaipur,Salaried,76745.0,71172,Medical Emergency,48,2491,548.0,Approved,21-12-2023
+BF0187,Customer_187,27,Bangalore,Salaried,163013.0,593351,Medical Emergency,60,20767,751.0,Pending,30-09-2023
+BF0398,Customer_398,37,Ahmedabad,Business,25235.0,"817,950",Education,12,28628,,Approved,03-08-2024
+BF0160,Customer_160,23,mumbai,Self-Employed,74922.0,"1,366,870",Medical Emergency,48,47840,747.0,Approved,21-08-2023
+BF0013,Customer_13,43,AHMEDABAD,Self-Employed,191981.0,591656,Education,60,20707,722.0,Rejected,18-01-2023
+BF0036,Customer_36,-5,Ahmedabad,Freelancer,53016.0,1273975,Home Renovation,36,44589,711.0,Pending,21-02-2023
+BF0029,Customer_29,58,Hyderabad,Business,198416.0,"550,315",Medical Emergency,36,19261,661.0,Approved ,10-02-2023
+BF0171,Customer_171,53,Jaipur,Business,198880.0,1121812,Travel,12,39263,795.0,Approved,06-09-2023
+BF0143,Customer_143,24,Jaipur,,146288.0,"522,327",Business,24,18281,745.0,Approved,27-07-2023
+BF0413,Customer_413,24,Mumbai,Business,197904.0,608924,Home Renovation,24,21312,814.0,Approved,25-08-2024
+BF0353,Customer_353,30,Hyderabad,Freelancer,104239.0,319708,Education,36,11189,601.0,Approved ,29-05-2024
+BF0222,Customer_222,37,Mumbai,Freelancer,197312.0,766756,Medical Emergency,36,26836,649.0,Approved,20-11-2023
+BF0096,Customer_96,58,Bangalore,Freelancer,190421.0,831452,Debt Consolidation,60,29100,587.0,Rejected,19-05-2023
+BF0052,Customer_52,50,jaipur,Self-Employed,139065.0,"518,276",Home Renovation,48,18139,810.0,Rejected,16-03-2023
+BF0241,Customer_241,56,Chennai,Freelancer,172979.0,1290768,Debt Consolidation,24,45176,683.0,Approved,18-12-2023
+BF0450,Customer_450,44,Jaipur,Self-Employed,49519.0,1394380,Education,12,48803,774.0,Approved,18-10-2024
+BF0352,Customer_352,44,Ahmedabad,Business,,196389,Medical Emergency,24,6873,608.0,Approved ,28-05-2024
+BF0393,Customer_393,40,Hyderabad,Salaried,,"949,005",Wedding,12,33215,611.0,Approved,27-07-2024
+BF0179,Customer_179,26,Chennai,Salaried,193513.0,1046261,Debt Consolidation,24,36619,616.0,Approved,18-09-2023
+BF0042,Customer_42,28,PUNE,Salaried,154695.0,334260,Travel,48,11699,561.0,Approved,01-03-2023
+BF0452,Customer_452,58,Mumbai,Salaried,,"765,080",Travel,60,26777,714.0,Approved,21-10-2024
+BF0445,Customer_445,56,Bangalore,Freelancer,92506.0,"1,089,504",Medical Emergency,24,38132,643.0,Pending,11-10-2024
+BF0207,Customer_207,52,Delhi,Salaried,94836.0,1355185,Wedding,24,47431,,Rejected,29-10-2023
+BF0283,Customer_283,52,Ahmedabad,Freelancer,113869.0,602433,Education,48,21085,640.0,Approved,17-02-2024
+BF0359,Customer_359,46,HYDERABAD,Self-Employed,,261837,Business,12,9164,706.0,approved,07-06-2024
+BF0255,Customer_255,33,Jaipur,Self-Employed,143831.0,758662,,24,26553,613.0,Approved,07-01-2024
+BF0427,Customer_427,50,Mumbai,Business,68303.0,1345160,Wedding,36,47080,810.0,Pending,15-09-2024
+BF0005,Customer_5,40,Ahmedabad,,53295.0,"1,475,753",Wedding,12,51651,717.0,Approved ,06-01-2023
+BF0257,Customer_257,43,BANGALORE,Freelancer,120257.0,"1,365,573",Medical Emergency,24,47795,609.0,Pending,10-01-2024
+BF0465,Customer_465,57,Delhi,Business,89484.0,"1,192,953",Education,60,41753,625.0,approved,09-11-2024
+BF0101,Customer_101,22,JAIPUR,Self-Employed,74407.0,1158252,Debt Consolidation,12,40538,818.0,approved,27-05-2023
+BF0227,Customer_227,45,Chennai,Self-Employed,100697.0,"1,090,993",Travel,60,38184,639.0,Approved,27-11-2023
+BF0442,Customer_442,30,Ahmedabad,Self-Employed,117263.0,1106233,Debt Consolidation,36,38718,664.0,Pending,07-10-2024
+BF0214,Customer_214,22,Ahmedabad,Freelancer,180286.0,"535,417",Education,60,18739,662.0,Rejected,08-11-2023
+BF0437,Customer_437,46,chennai,Business,190088.0,126898,Business,36,4441,545.0,Rejected,29-09-2024
+BF0172,Customer_172,27,Mumbai,,44198.0,"137,955",Education,12,4828,673.0,Approved,08-09-2023
+BF0099,Customer_99,48,Bangalore,Salaried,161785.0,1192077,Wedding,48,41722,731.0,Rejected ,24-05-2023
+BF0293,Customer_293,52,Ahmedabad,Business,75448.0,"478,988",Medical Emergency,24,16764,814.0,Pending,03-03-2024
+BF0216,Customer_216,26,Mumbai,Salaried,167709.0,605941,Travel,24,21207,540.0,approved,11-11-2023
+BF0062,Customer_62,35,Chennai,Freelancer,180576.0,"1,279,336",Travel,48,44776,591.0,Approved,31-03-2023
+BF0048,Customer_48,25,Ahmedabad,Business,46732.0,"1,198,734",Medical Emergency,24,41955,717.0,Approved,10-03-2023
+BF0033,Customer_33,39,Bangalore,Salaried,105219.0,791426,Travel,24,27699,,Approved,16-02-2023
+BF0268,Customer_268,49,Delhi,Salaried,92661.0,750780,Wedding,36,26277,697.0,Approved,26-01-2024
+BF0328,Customer_328,46,Pune,Self-Employed,26605.0,254615,Wedding,48,8911,642.0,Approved,23-04-2024
+BF0201,Customer_201,39,Bangalore,Business,80123.0,"198,757",Home Renovation,48,6956,529.0,Pending,20-10-2023
+BF0463,Customer_463,34,Ahmedabad,Freelancer,91656.0,663089,Debt Consolidation,60,23208,723.0,Approved,06-11-2024
+BF0028,Customer_28,24,HYDERABAD,Salaried,181542.0,1126208,Travel,60,39417,567.0,Approved,09-02-2023
+BF0404,Customer_404,48,Bangalore,Business,109555.0,641652,Wedding,60,22457,714.0,Pending,12-08-2024
+BF0231,Customer_231,59,DELHI,Freelancer,180026.0,274137,Wedding,48,9594,645.0,Approved,03-12-2023
+BF0261,Customer_261,29,Ahmedabad,Business,156374.0,"1,304,126",Wedding,48,45644,642.0,Approved,16-01-2024
+BF0379,Customer_379,47,Chennai,Salaried,165937.0,"920,123",Travel,24,32204,688.0,Pending,06-07-2024
+BF0289,Customer_289,54,Chennai,Self-Employed,194590.0,1224571,Home Renovation,36,42859,730.0,Pending,26-02-2024
+BF0163,Customer_163,44,mumbai,Business,62131.0,"758,754",Debt Consolidation,48,26556,726.0,Approved,25-08-2023
+BF0440,Customer_440,31,Mumbai,Business,152796.0,604736,Home Renovation,24,21165,638.0,Approved,04-10-2024
+BF0139,Customer_139,54,Jaipur,Business,35916.0,512052,Debt Consolidation,12,17921,606.0,Rejected,21-07-2023
+BF0063,Customer_63,44,Ahmedabad,Salaried,163186.0,1067433,Debt Consolidation,36,37360,623.0,Pending,01-04-2023
+BF0136,Customer_136,32,Ahmedabad,Freelancer,75612.0,1434775,Debt Consolidation,48,50217,683.0,Rejected,17-07-2023
+BF0129,Customer_129,49,Pune,Business,197015.0,"1,083,024",Business,48,37905,671.0,Approved,07-07-2023
+BF0497,Customer_497,28,Chennai,,96315.0,773035,Business,12,27056,730.0,Rejected,26-12-2024
+BF0009,Customer_9,45,Bangalore,Salaried,196334.0,"1,043,497",Wedding,36,36522,625.0,Approved ,12-01-2023
+BF0327,Customer_327,43,Bangalore,Freelancer,,392703,Debt Consolidation,48,13744,731.0,Pending ,21-04-2024
+BF0483,Customer_483,37,Mumbai,Self-Employed,154038.0,"576,684",Business,36,20183,,Pending,06-12-2024
+BF0065,Customer_65,37,Delhi,Business,124657.0,"713,937",Education,48,24987,604.0,Approved,04-04-2023
+BF0301,Customer_301,23,Jaipur,Freelancer,162240.0,443554,Wedding,36,15524,692.0,Pending,14-03-2024
+BF0015,Customer_15,45,Jaipur,Salaried,190650.0,238014,Home Renovation,12,8330,639.0,Pending,21-01-2023
+BF0157,Customer_157,24,Hyderabad,Salaried,,"818,734",Home Renovation,36,28655,766.0,Approved ,17-08-2023
+BF0041,Customer_41,49,Ahmedabad,Salaried,61395.0,1133136,Wedding,48,39659,569.0,Approved,28-02-2023
+BF0380,Customer_380,47,Jaipur,Business,158291.0,895038,Home Renovation,24,31326,707.0,Approved,08-07-2024
+BF0477,Customer_477,56,Jaipur,Self-Employed,179782.0,70838000,Medical Emergency,48,24793,720.0,Pending,27-11-2024
+BF0418,Customer_418,34,Bangalore,Self-Employed,,965015,Travel,60,33775,642.0,Approved,02-09-2024
+BF0217,Customer_217,58,Jaipur,Self-Employed,178487.0,1256305,Home Renovation,36,43970,624.0,Pending ,12-11-2023
+BF0280,Customer_280,58,Delhi,Business,92067.0,1374070,Education,60,48092,717.0,rejected,13-02-2024
+BF0451,Customer_451,53,Mumbai,Salaried,105910.0,"896,936",Education,48,31392,,Pending,20-10-2024
+BF0447,Customer_447,39,Ahmedabad,Business,79917.0,"57,906",Travel,60,2026,773.0,Rejected,14-10-2024
+BF0338,Customer_338,27,Delhi,Self-Employed,,387054,Home Renovation,60,13546,761.0,Pending,08-05-2024
+BF0237,Customer_237,50,Hyderabad,Salaried,104252.0,440719,Medical Emergency,12,15425,865.0,Pending,12-12-2023
+BF0208,Customer_208,51,CHENNAI,Freelancer,129573.0,"1,487,398",Wedding,36,52058,718.0,Approved,30-10-2023
+BF0213,Customer_213,23,Delhi,Business,,373412,Wedding,12,13069,700.0,Approved,07-11-2023
+BF0296,Customer_296,150,Mumbai,Business,72915.0,"930,438",Home Renovation,60,32565,716.0,Pending,07-03-2024
+BF0474,Customer_474,40,pune,Salaried,199944.0,1210793,Home Renovation,36,42377,611.0,Approved,22-11-2024
+BF0252,Customer_252,24,Chennai,Salaried,199293.0,"1,109,622",Education,36,38836,674.0,Approved,03-01-2024
+BF0090,Customer_90,29,AHMEDABAD,Self-Employed,80284.0,364997,Education,36,12774,701.0,Pending,11-05-2023
+BF0481,Customer_481,57,Ahmedabad,Self-Employed,89435.0,"452,732",Wedding,60,15845,751.0,approved,03-12-2024
+BF0304,Customer_304,54,Hyderabad,Business,107152.0,1109920,Travel,24,38847,700.0,Rejected,19-03-2024
+BF0351,Customer_351,47,Pune,Business,25846.0,891052,Wedding,60,31186,659.0,Approved,27-05-2024
+BF0270,Customer_270,26,CHENNAI,Self-Employed,172820.0,"1,276,952",Business,24,44693,575.0,Rejected,29-01-2024
+BF0202,Customer_202,22,Bangalore,Self-Employed,150911.0,1412413,Education,24,49434,693.0,Approved,22-10-2023
+BF0162,Customer_162,49,Hyderabad,Business,188121.0,328176,Medical Emergency,48,11486,625.0,Approved,24-08-2023
+BF0044,Customer_44,56,Mumbai,Self-Employed,59620.0,1277171,Debt Consolidation,60,44700,663.0,Approved ,04-03-2023
+BF0218,Customer_218,53,Ahmedabad,Business,49071.0,278504,Wedding,48,9747,575.0,Rejected,14-11-2023
+BF0402,Customer_402,49,mumbai,Freelancer,164639.0,172744,Business,60,6046,602.0,Approved,09-08-2024
+BF0191,Customer_191,41,Hyderabad,Salaried,119456.0,85954,Travel,12,3008,678.0,Approved,05-10-2023
+BF0310,Customer_310,45,Hyderabad,Salaried,37910.0,236833,Medical Emergency,60,8289,638.0,Pending,28-03-2024
+BF0260,Customer_260,59,Pune,Self-Employed,75428.0,465008,Travel,24,16275,674.0,Approved,14-01-2024
+BF0106,Customer_106,22,Jaipur,Salaried,81570.0,476752,Wedding,24,16686,539.0,Pending,03-06-2023
+BF0054,Customer_54,47,Chennai,Freelancer,42640.0,"107,545",Business,24,3764,614.0,Approved,19-03-2023
+BF0390,Customer_390,55,Hyderabad,,104767.0,"606,701",Education,36,21234,864.0,Pending,23-07-2024
+BF0002,Customer_2,36,JAIPUR,Self-Employed,113092.0,1339349,Wedding,60,46877,755.0,Approved ,02-01-2023
+BF0458,Customer_458,51,Bangalore,Salaried,156994.0,93642,Wedding,24,3277,677.0,Rejected,30-10-2024
+BF0382,Customer_382,57,Mumbai,Self-Employed,141748.0,1279720,Wedding,24,44790,637.0,Pending,11-07-2024
+BF0050,Customer_50,27,Delhi,Business,186426.0,"380,388",Medical Emergency,36,13313,608.0,Approved ,13-03-2023
+BF0420,Customer_420,52,PUNE,Salaried,175354.0,481413,Home Renovation,12,16849,697.0,Approved,04-09-2024
+BF0081,Customer_81,38,Delhi,Salaried,58307.0,144270,Travel,60,5049,647.0,Pending,28-04-2023
+BF0206,Customer_206,44,hyderabad,Self-Employed,30569.0,1306556,Business,48,45729,768.0,Approved,27-10-2023
+BF0035,Customer_35,46,Mumbai,Freelancer,91040.0,1093917,Education,60,38287,661.0,Approved,19-02-2023
+BF0431,Customer_431,55,DELHI,Business,,1285202,Business,12,44982,681.0,Approved,21-09-2024
+BF0264,Customer_264,55,mumbai,Business,164789.0,721210,Medical Emergency,36,25242,721.0,Approved,20-01-2024
+BF0428,Customer_428,47,AHMEDABAD,Business,185359.0,1215529,Education,48,42543,726.0,Approved,16-09-2024
+BF0491,Customer_491,39,delhi,Salaried,45609.0,1059612,Business,24,37086,,Pending,17-12-2024
+BF0367,Customer_367,47,Ahmedabad,Salaried,67533.0,"800,865",Medical Emergency,24,28030,762.0,Approved,19-06-2024
+BF0092,Customer_92,55,Delhi,Salaried,,1305100,Education,12,45678,617.0,Approved,14-05-2023
+BF0340,Customer_340,51,Bangalore,Freelancer,194182.0,609723,Travel,36,21340,662.0,Rejected,10-05-2024
+BF0493,Customer_493,30,Hyderabad,Salaried,,960597,Education,36,33620,620.0,Approved,20-12-2024
+BF0053,Customer_53,39,Chennai,Self-Employed,96726.0,1064920,,12,37272,599.0,approved,18-03-2023
+BF0346,Customer_346,38,Pune,Self-Employed,156189.0,"726,022",Debt Consolidation,12,25410,603.0,Rejected,19-05-2024
+BF0265,Customer_265,42,Jaipur,Self-Employed,152449.0,979616,Wedding,24,34286,722.0,Rejected,22-01-2024
+BF0242,Customer_242,37,Delhi,Freelancer,174849.0,1248898,Medical Emergency,60,43711,645.0,Approved,19-12-2023
+BF0014,Customer_14,23,ahmedabad,Salaried,44870.0,720688,Debt Consolidation,24,25224,805.0,Rejected,20-01-2023
+BF0316,Customer_316,29,Jaipur,Salaried,73447.0,959164,,48,33570,705.0,Rejected,05-04-2024
+BF0089,Customer_89,30,CHENNAI,Freelancer,103752.0,"807,907",Business,36,28276,613.0,Approved,09-05-2023
+BF0388,Customer_388,26,Mumbai,Salaried,175288.0,608221,Education,12,21287,738.0,Approved,20-07-2024
+BF0274,Customer_274,38,Hyderabad,Business,161198.0,"743,264",Wedding,24,26014,,Approved,04-02-2024
+BF0167,Customer_167,22,delhi,Business,131884.0,"212,491",Education,48,7437,729.0,Approved,31-08-2023
+BF0329,Customer_329,43,Pune,Self-Employed,97303.0,449953,Wedding,36,15748,738.0,Approved,24-04-2024
+BF0032,Customer_32,30,Chennai,Freelancer,64298.0,"1,349,445",Wedding,12,47230,654.0,Approved,15-02-2023
+BF0135,Customer_135,51,JAIPUR,Freelancer,105642.0,"820,044",Education,48,28701,703.0,Pending,16-07-2023
+BF0307,Customer_307,47,Hyderabad,Business,51734.0,"370,197",Home Renovation,48,12956,652.0,Approved,23-03-2024
+BF0367,Customer_367,47,Ahmedabad,Salaried,67533.0,"800,865",Medical Emergency,24,28030,762.0,approved,19-06-2024
+BF0320,Customer_320,44,Ahmedabad,Salaried,101090.0,"662,121",Medical Emergency,60,23174,707.0,Approved,11-04-2024
+BF0244,Customer_244,54,Hyderabad,Business,133464.0,"585,843",Business,60,20504,768.0,Approved,22-12-2023
+BF0055,Customer_55,55,Chennai,Salaried,77528.0,"561,411",Wedding,12,19649,628.0,Approved,20-03-2023
+BF0364,Customer_364,50,Chennai,Business,92584.0,1070154,Travel,60,37455,687.0,Rejected,15-06-2024
+BF0051,Customer_51,0,Pune,Business,38843.0,368408,Travel,12,12894,585.0,Approved,15-03-2023
+BF0473,Customer_473,52,Jaipur,Salaried,,1233620,Travel,60,43176,663.0,Rejected,21-11-2024
+BF0175,Customer_175,32,Ahmedabad,Salaried,69238.0,"1,193,490",Debt Consolidation,60,41772,732.0,Approved,12-09-2023
+BF0446,Customer_446,57,Hyderabad,Business,66157.0,424999,Travel,48,14874,765.0,pending,13-10-2024
+BF0190,Customer_190,24,Jaipur,Self-Employed,100745.0,267215,Business,12,9352,784.0,Approved,04-10-2023
+BF0240,Customer_240,-5,Jaipur,Salaried,129680.0,"1,083,578",Education,60,37925,636.0,Approved,16-12-2023
+BF0464,Customer_464,40,Ahmedabad,Self-Employed,69028.0,"1,386,651",Home Renovation,36,48532,662.0,Approved,08-11-2024
+BF0188,Customer_188,37,hyderabad,Salaried,,"117,642",Travel,36,4117,613.0,Approved,01-10-2023
+BF0476,Customer_476,26,Bangalore,Business,150733.0,453119,Education,60,15859,683.0,Approved,25-11-2024
+BF0170,Customer_170,47,JAIPUR,Freelancer,62626.0,310910,Medical Emergency,12,10881,672.0,Rejected,05-09-2023
+BF0059,Customer_59,52,chennai,Salaried,131357.0,63224,Medical Emergency,24,2212,713.0,Rejected,26-03-2023
+BF0475,Customer_475,37,Jaipur,Freelancer,71197.0,942964,Home Renovation,24,33003,733.0,Approved,24-11-2024
+BF0049,Customer_49,23,Delhi,Business,116362.0,"1,267,078",Wedding,48,44347,,Pending,12-03-2023
+BF0345,Customer_345,40,Bangalore,Business,147883.0,"540,457",Wedding,12,18915,721.0,Pending,18-05-2024
+BF0236,Customer_236,150,HYDERABAD,Salaried,48061.0,741757,Debt Consolidation,60,25961,698.0,Approved,10-12-2023
+BF0253,Customer_253,38,MUMBAI,Self-Employed,166550.0,278071,Business,12,9732,721.0,Pending,04-01-2024
+BF0022,Customer_22,43,Chennai,Freelancer,29748.0,"245,716",Business,48,8600,730.0,Approved,31-01-2023
+BF0314,Customer_314,41,PUNE,Salaried,97274.0,1356170,Debt Consolidation,12,47465,682.0,Pending,02-04-2024
+BF0460,Customer_460,41,Bangalore,Business,76356.0,541036,Travel,36,18936,739.0,Approved,02-11-2024
+BF0161,Customer_161,23,HYDERABAD,Freelancer,119074.0,304726,,12,10665,820.0,Approved,23-08-2023
+BF0277,Customer_277,50,MUMBAI,,107838.0,"657,847",Education,48,23024,616.0,Rejected,08-02-2024
+BF0444,Customer_444,56,Jaipur,Salaried,36302.0,"994,189",Medical Emergency,24,34796,648.0,Approved,10-10-2024
+BF0192,Customer_192,57,Delhi,Business,78413.0,1126432,Education,12,39425,771.0,Approved,07-10-2023
+BF0386,Customer_386,44,Delhi,Salaried,157414.0,"576,338",Debt Consolidation,12,20171,764.0,Pending,17-07-2024
+BF0294,Customer_294,24,Chennai,Freelancer,120462.0,"230,553",Education,36,8069,883.0,Approved,04-03-2024
+BF0414,Customer_414,22,hyderabad,Salaried,83596.0,229352,Debt Consolidation,24,8027,,Approved,27-08-2024
+BF0492,Customer_492,33,delhi,Self-Employed,172550.0,149616,Home Renovation,12,5236,742.0,approved,19-12-2024
+BF0344,Customer_344,51,mumbai,Freelancer,184818.0,184055,Debt Consolidation,60,6441,633.0,Approved,16-05-2024
+BF0258,Customer_258,51,bangalore,Self-Employed,89291.0,1062117,Travel,48,37174,716.0,Approved,11-01-2024
+BF0309,Customer_309,46,Mumbai,Business,51069.0,721256,Education,12,25243,727.0,Pending,26-03-2024
+BF0150,Customer_150,45,Pune,Business,46949.0,"949,885",Wedding,36,33245,635.0,Approved,06-08-2023
+BF0131,Customer_131,27,Hyderabad,Self-Employed,37763.0,555815,Home Renovation,36,19453,746.0,Approved,10-07-2023
+BF0152,Customer_152,53,Ahmedabad,Salaried,133319.0,"1,110,751",Travel,12,38876,794.0,Approved ,09-08-2023
+BF0360,Customer_360,22,Pune,Self-Employed,89323.0,160017,Business,36,5600,710.0,Approved,09-06-2024
+BF0100,Customer_100,56,Chennai,Freelancer,,314223,Education,36,10997,662.0,Pending,25-05-2023
+BF0373,Customer_373,49,Hyderabad,Salaried,72362.0,756544,Debt Consolidation,60,26479,649.0,Approved,28-06-2024
+BF0088,Customer_88,28,Ahmedabad,Salaried,194160.0,"1,017,344",Wedding,48,35607,770.0,Approved,08-05-2023
+BF0459,Customer_459,38,Pune,Business,123723.0,567083,Business,48,19847,754.0,Rejected,01-11-2024
+BF0331,Customer_331,27,Bangalore,Freelancer,101125.0,888003,Medical Emergency,48,31080,538.0,Approved,27-04-2024
+BF0215,Customer_215,33,Mumbai,Self-Employed,162162.0,238456,Medical Emergency,36,8345,,Pending,10-11-2023
+BF0467,Customer_467,40,delhi,Salaried,27336.0,362250,Business,12,12678,,Approved ,12-11-2024
+BF0122,Customer_122,36,Chennai,Freelancer,176456.0,1067289,Wedding,36,37355,765.0,Rejected,27-06-2023
+BF0432,Customer_432,28,Jaipur,Salaried,127974.0,"195,271",Wedding,12,6834,,Approved,22-09-2024
+BF0021,Customer_21,33,Ahmedabad,Self-Employed,111188.0,"1,310,527",Wedding,24,45868,660.0,Approved,30-01-2023
+BF0072,Customer_72,22,Pune,Freelancer,144156.0,702026,Business,36,24570,711.0,Approved,14-04-2023
+BF0107,Customer_107,26,MUMBAI,Self-Employed,,638365,Debt Consolidation,48,22342,803.0,Approved,05-06-2023
+BF0271,Customer_271,40,Mumbai,Salaried,,"549,137",Education,60,19219,756.0,Approved,30-01-2024
+BF0436,Customer_436,57,MUMBAI,,92728.0,"883,032",Education,24,30906,784.0,Approved,28-09-2024
+BF0103,Customer_103,58,Hyderabad,Business,154473.0,647135,Debt Consolidation,36,22649,701.0,Approved,30-05-2023

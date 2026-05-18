@@ -1,0 +1,12 @@
+{
+    "candidate_info": {
+        "name": "Alice",
+        "age": 30,
+        "skills": ["Python", "Machine Learning", "Data Analysis"]
+    },
+    "job_info": {
+        "position": "Data Scientist",
+        "experience": 5,
+        "location": "New York"
+    }
+}
